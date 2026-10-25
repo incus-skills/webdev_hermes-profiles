@@ -1,6 +1,6 @@
 # Provisional model — index
 
-**Branch:** §critique-method-v1§  
+**Branch:** `critique-method-v1`  
 **Status:** Phase 2 working artifacts. No operational profile definitions are frozen.
 
 ## Artifacts
